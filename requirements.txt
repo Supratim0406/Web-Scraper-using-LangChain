@@ -1,0 +1,9 @@
+streamlit
+langchain-community
+langchain-core
+selenium
+unstructured
+bs4
+requests
+lxml
+html5lib
